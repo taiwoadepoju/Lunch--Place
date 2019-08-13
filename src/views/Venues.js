@@ -2,7 +2,6 @@ import React from 'react';
 import { connect } from 'react-redux';
 import { Table, Input, Container, Button, Row, Form, FormGroup, Alert } from 'reactstrap';
 import { lunchPlaceActions } from '../_actions/lunchplace.actions';
-import _ from 'lodash';
 
 /**
  * @class Venues
